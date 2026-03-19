@@ -34,7 +34,7 @@ This project analyzes customer behavior in a shopping mall dataset to identify p
 ![Dashboard](image/image.png)
 
 ## SQL Example
-```sql
+```sql```
 SELECT Gender, AVG(`Spending Score`)
 FROM customers
 GROUP BY Gender;
