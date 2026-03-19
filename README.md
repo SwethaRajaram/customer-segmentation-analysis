@@ -31,7 +31,7 @@ This project analyzes customer behavior in a shopping mall dataset to identify p
 - Combine age and income for better targeting
 
 ## Dashboard
-![Dashboard](image/dashboard.png)
+![Dashboard](image/image.png)
 
 ## SQL Example
 ```sql
