@@ -30,9 +30,6 @@ This project analyzes customer behavior in a shopping mall dataset to identify p
 - Use behavioral segmentation instead of gender-based targeting
 - Combine age and income for better targeting
 
-## Dashboard
-![Dashboard](image/image.png)
-
 ## SQL Example
 ```sql
 SELECT Gender, AVG(`Spending Score`)
