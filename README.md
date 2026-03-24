@@ -35,3 +35,7 @@ This project analyzes customer behavior in a shopping mall dataset to identify p
 SELECT Gender, AVG(`Spending Score`)
 FROM customers
 GROUP BY Gender;
+
+## Dashboard Preview
+
+![dashboard](dashboard.png)
